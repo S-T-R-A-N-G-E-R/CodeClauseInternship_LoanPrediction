@@ -16,15 +16,15 @@ We employed several machine learning models to predict loan defaulters:
 
 1. **Random Forest Classifier**
    - Accuracy: 93.3%
-   - [Trained Model](/models/model_RF_pickle.pkl)
+   - [Trained Model](models/model_RF_pickle)
 
 2. **Decision Tree Classifier**
    - Accuracy: 91.4%
-   - [Trained Model](/models/model_DT_pickle.pkl)
+   - [Trained Model](/models/model_DT_pickle)
 
 3. **Logistic Regression**
    - Accuracy: 76.8%
-   - [Trained Model](/models/model_LR_pickle.pkl)
+   - [Trained Model](/models/model_LR_pickle)
 
 You can use these trained models for making predictions on new data.
 
