@@ -4,7 +4,7 @@ This repository contains the code and resources for a data science project that 
 
 ## Dataset
 
-The dataset used in this project, named "Loan Prediction.csv,". You can also access the dataset from the [Kaggle dataset page](https://www.kaggle.com/datasets/kmldas/loan-default-prediction).
+The dataset used in this project, named [Loan Prediction.csv](/Loan%20Prediction.csv). You can also access the dataset from the [Kaggle dataset page](https://www.kaggle.com/datasets/kmldas/loan-default-prediction).
 
 ## Dependencies
 -   Python (>=3.6)
